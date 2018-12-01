@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UdemyBroadcastReceiver</string>
+    <string name="to_inner_receiver">To Inner Receiver</string>
+    <string name="broadcast_now">Broadcast Now</string>
+</resources>
